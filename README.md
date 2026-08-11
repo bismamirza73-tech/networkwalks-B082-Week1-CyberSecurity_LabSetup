@@ -215,7 +215,7 @@ The lab documentation includes screenshots covering:
 
 ### 2️⃣ VirtualBox Installation
 
-![VirtualBox Installation](-virtualbox-installation.png)
+![VirtualBox Installation](virtualbox-installation.png)
 
 ### 3️⃣ NAT Network Configuration
 
