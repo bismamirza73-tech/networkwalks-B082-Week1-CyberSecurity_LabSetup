@@ -22,9 +22,7 @@ The purpose of this lab is to provide a safe and controlled environment where cy
 | 🖼️ Screenshots          | Screenshots of configuration and testing stages |
 | 🛠️ Troubleshooting      | Common issues encountered and their solutions   |
 | 🌐 Network Configuration | IP, DNS, gateway, and NAT network configuration |
-| 💾 Backup Strategy       | VM snapshots and backup procedures              |
 | 🎓 Learning Outcomes     | Skills and cybersecurity concepts developed     |
-| 🎥 Video Demonstration   | Short walkthrough of the completed lab          |
 
 ---
 
