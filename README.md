@@ -223,45 +223,6 @@ The lab documentation includes screenshots covering:
 10. 🖥️ Running Kali VM
 11. ⚙️ Network Manager Configuration
 
-> 📌 **Screenshots can be stored inside a `screenshots/` directory in this repository.**
-
-Example:
-
-```markdown
-![Kali IP Configuration](screenshots/ip-configuration.png)
-
-
----
-
-# 💾 Snapshot & Backup Strategy
-
-## 📌 Snapshot Points
-
-| 📸 Snapshot            | 📝 Description                               | 🎯 Purpose               |
-| ---------------------- | -------------------------------------------- | ------------------------ |
-| **Base Clean Install** | Fresh Kali installation with working network | Starting point           |
-| **Tools Installed**    | Essential security tools installed           | Save reinstallation time |
-| **Pre-Experiment**     | Created before risky operations              | Quick rollback           |
-
-## 🗓️ Backup Schedule
-
-| ⏱️ Frequency             | 💾 Backup Action                          |
-| ------------------------ | ----------------------------------------- |
-| **Daily**                | Export VM to external SSD                 |
-| **Weekly**               | Upload compressed backup to cloud storage |
-| **Monthly**              | Archive all snapshots                     |
-| **Before Major Changes** | Create a new backup                       |
-
-## 📁 Backup Locations
-
-```text
-Local:    D:\VirtualBox VMs\Kali_Lab_Backups\
-External: E:\Kali_Lab_Backups\
-Cloud:    Google Drive / OneDrive
-```
-
----
-
 # 📚 Learning Outcomes
 
 ## 🖥️ Virtualization Skills
@@ -321,17 +282,6 @@ Cloud:    Google Drive / OneDrive
 * [7-Zip](https://7-zip.org/)
 * [Oracle VirtualBox](https://virtualbox.org/)
 * [Kali Linux](https://kali.org/)
-* [Git](https://git-scm.com/)
-* [Obsidian](https://obsidian.md/)
-* [PuTTY](https://putty.org/)
-* [WinSCP](https://winscp.net/)
-
-### 📚 Documentation
-
-* [VirtualBox Documentation](https://virtualbox.org/manual)
-* [Kali Linux Documentation](https://kali.org/docs)
-* [Debian Network Configuration](https://wiki.debian.org/NetworkConfiguration)
-* [SANS Cybersecurity Resources](https://www.sans.org/)
 
 ---
 
@@ -359,39 +309,19 @@ During the first week, the following tasks were completed:
 
 ---
 
-# 🚀 Next Steps
-
-The next phase of the project will focus on expanding the cybersecurity lab.
-
-* 🔍 Install common penetration testing tools
-* 🌐 Configure additional virtual machines
-* 🛡️ Practice Nmap in a controlled environment
-* 🧪 Practice Metasploit in an authorized lab
-* 💻 Deploy intentionally vulnerable machines
-* 🔐 Perform controlled security testing
-* 📊 Explore network monitoring and analysis
-
----
 
 # 👤 Author Information
 
 | 👤 Field        | 📝 Details            |
 | --------------- | --------------------- |
-| **Name**        | Your Full Name        |
-| **Student ID**  | Your Student ID       |
-| **Batch**       | Your Batch / Year     |
-| **Program**     | Your Program          |
-| **Institution** | Your Institution      |
-| **Email**       | Your Email            |
-| **GitHub**      | Your GitHub Profile   |
-| **LinkedIn**    | Your LinkedIn Profile |
-| **Portfolio**   | Your Portfolio        |
+| **Name**        | Bisma Fatima Mirza    |
+| **Program**     | Cyber Security      |
+| **Email**       | bismamirza73@gmail.com          |
 
 ## 🤝 Connect With Me
 
 * 🐙 **GitHub:** [@yourusername](https://github.com/yourusername)
-* 💼 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-* 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+* 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/bisma-mirza-6310102a0/)
 
 ---
 
@@ -452,72 +382,14 @@ The demonstration includes:
 
 | 🧩 Project Phase        | 📌 Status   | 📅 Date |
 | ----------------------- | ----------- | ------- |
-| VirtualBox Installation | ✅ Completed | [Date]  |
-| NAT Network Setup       | ✅ Completed | [Date]  |
-| Kali VM Deployment      | ✅ Completed | [Date]  |
-| IP Configuration        | ✅ Completed | [Date]  |
-| Snapshot Creation       | ✅ Completed | [Date]  |
-| Testing & Verification  | ✅ Completed | [Date]  |
-| Documentation           | ✅ Completed | [Date]  |
-| Video Demonstration     | ✅ Completed | [Date]  |
-
----
-
-# 🤝 Contributing
-
-Contributions and improvements are welcome.
-
-### 🔧 How to Contribute
-
-```bash
-# Fork the repository
-
-# Clone your fork
-git clone <your-repository-url>
-
-# Create a feature branch
-git checkout -b feature/AmazingFeature
-
-# Commit your changes
-git commit -m "Add some AmazingFeature"
-
-# Push the branch
-git push origin feature/AmazingFeature
-```
-
-Then open a **Pull Request** on GitHub.
-
----
-
-# 📄 License
-
-> This project is created for **educational purposes only**.
->
-> * Not intended for malicious use
-> * Use responsibly and ethically
-> * Follow all applicable laws and regulations
-> * Always obtain proper authorization before security testing
-
----
-
-# 🙏 Acknowledgments
-
-Special thanks to:
-
-* 🖥️ **Oracle** — VirtualBox
-* 🐉 **Offensive Security** — Kali Linux
-* 🌐 **Open-Source Community** — Tools and resources
-* 👨‍🏫 **Instructors & Mentors** — Guidance and support
-
----
-
-# 📞 Support
-
-For questions, suggestions, or issues:
-
-* 🐙 **GitHub Issues:** [Repository Issues](https://github.com/yourusername/yourrepo/issues)
-* 📧 **Email:** Your Email
-* 💬 **Discord:** [Your Discord Server](https://discord.gg/your-invite)
+| VirtualBox Installation | ✅ Completed | [11-Aug-2026]  |
+| NAT Network Setup       | ✅ Completed | [11-Aug-2026]  |
+| Kali VM Deployment      | ✅ Completed | [11-Aug-2026]  |
+| IP Configuration        | ✅ Completed | [11-Aug-2026]|
+| Snapshot Creation       | ✅ Completed | [11-Aug-2026]  |
+| Testing & Verification  | ✅ Completed | [11-Aug-2026]  |
+| Documentation           | ✅ Completed | [11-Aug-2026]  |
+| Video Demonstration     | ✅ Completed | [11-Aug-2026]  |
 
 ---
 
