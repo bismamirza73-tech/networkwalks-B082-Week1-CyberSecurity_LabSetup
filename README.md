@@ -330,8 +330,8 @@ During the first week, the following tasks were completed:
 
 ## 🤝 Connect With Me
 
-* 🐙 **GitHub:** [@yourusername](https://github.com/yourusername)
-* 💼 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/bisma-mirza-6310102a0/)
+* 🐙 **GitHub:** [My Github]((https://github.com/bismamirza73-tech))
+* 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/bisma-mirza-6310102a0/)
 
 ---
 
@@ -364,27 +364,6 @@ sudo apt update && sudo apt upgrade
 6. 💾 Maintain regular backups.
 7. 🔐 Never store sensitive credentials inside the lab VM.
 8. 🌐 Keep security testing within authorized environments.
-
----
-
-# 🎥 Video Demonstration
-
-## 📹 Lab Walkthrough
-
-**Duration:** 30–60 seconds
-
-The demonstration includes:
-
-* VM boot sequence
-* Kali Linux login
-* Network verification
-* Snapshot management
-* System information
-* Lab environment overview
-
-📹 **[Watch Lab Demonstration](https://videos/lab_demo.mp4)**
-
-> ⚠️ Replace the placeholder video URL with the actual video link before publishing.
 
 ---
 
