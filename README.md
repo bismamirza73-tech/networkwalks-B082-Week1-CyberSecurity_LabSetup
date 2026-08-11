@@ -330,7 +330,6 @@ During the first week, the following tasks were completed:
 
 ## 🤝 Connect With Me
 
-* 🐙 **GitHub:** [My Github]((https://github.com/bismamirza73-tech))
 * 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/bisma-mirza-6310102a0/)
 
 ---
