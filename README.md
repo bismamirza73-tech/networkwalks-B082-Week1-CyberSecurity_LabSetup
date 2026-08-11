@@ -205,23 +205,33 @@ Created the NAT Network through VirtualBox Network Manager before configuring th
 
 ---
 
-# 📸 Screenshots Documentation
+## 📸 Screenshots Documentation
 
 The lab documentation includes screenshots covering:
 
-1. 🧰 7-Zip Installation
-   ```markdown
+### 1️⃣ 7-Zip Installation
 
----
-3. 🖥️ VirtualBox Installation
-4. 🌐 NAT Network Creation
-5. 💻 Kali VM Import
-6. 🌐 IP Configuration
-7. 📡 Network Verification
-8. 🔄 System Update
-9. 💾 Snapshot Creation
-10. 🖥️ Running Kali VM
-11. ⚙️ Network Manager Configuration
+![7-Zip Installation](7-zip.installation.png)
+
+### 2️⃣ VirtualBox Installation
+
+![VirtualBox Installation](-virtualbox-installation.png)
+
+### 3️⃣ NAT Network Configuration
+
+![NAT Network Configuration](screenshots/03-nat-network.png)
+
+### 4️⃣ Kali Linux VM Import
+
+![Kali Linux VM Import](screenshots/04-kali-vm-import.png)
+
+### 5️⃣ IP Configuration
+
+![IP Configuration](screenshots/05-ip-configuration.png)
+
+### 6️⃣ Network Verification
+
+![Network Verification](screenshots/06-network-verification.png)
 
 # 📚 Learning Outcomes
 
